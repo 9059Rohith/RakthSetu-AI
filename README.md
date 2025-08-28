@@ -27,8 +27,10 @@ A modern React-based project utilizing the latest frontend technologies and tool
    # or
    yarn install
    ```
+   requirements.txt
    
-2. Start the development server:
+   
+3. Start the development server:
    ```bash
    npm start
    # or
